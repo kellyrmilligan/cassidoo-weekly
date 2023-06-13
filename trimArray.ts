@@ -1,3 +1,6 @@
+/**
+ * Trims left and right elements from an array
+ */
 function trimArray(
   arr: Array<number>,
   leftTrim: number,
